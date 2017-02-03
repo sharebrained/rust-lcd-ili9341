@@ -1,0 +1,11 @@
+[package]
+name = "lcd-ili9341"
+version = "0.1.0"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/sharebrained/rust-lcd-ili9341"
+description = "API wrapper for ILI9341 LCD controller"
+keywords = ["ili9431", "lcd", "controller", "hardware"]
+authors = [
+	"Jared Boone <jared@sharebrained.com>"
+]
